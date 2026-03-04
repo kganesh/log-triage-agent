@@ -1,0 +1,113 @@
+2026-03-04 09:00:00,000 INFO  [http.access] /api/orders 200 user=u-01018 dur=44ms
+2026-03-04 09:00:02,065 INFO  [http.access] /api/cart 200 user=u-01020 dur=137ms
+2026-03-04 09:00:03,916 INFO  [http.access] /api/orders 200 user=u-01027 dur=62ms
+2026-03-04 09:00:04,649 INFO  [http.access] /api/checkout 200 user=u-01017 dur=120ms
+2026-03-04 09:00:06,598 INFO  [http.access] /api/cart 200 user=u-01016 dur=69ms
+2026-03-04 09:00:07,796 INFO  [http.access] /api/checkout 200 user=u-01038 dur=81ms
+2026-03-04 09:00:08,998 INFO  [http.access] /api/payment 200 user=u-01018 dur=90ms
+2026-03-04 09:00:11,192 INFO  [http.access] /api/orders 200 user=u-01018 dur=86ms
+2026-03-04 09:00:11,926 INFO  [http.access] /api/orders 200 user=u-01030 dur=113ms
+2026-03-04 09:00:13,927 INFO  [http.access] /api/checkout 200 user=u-01031 dur=134ms
+2026-03-04 09:00:15,297 INFO  [http.access] /api/checkout 200 user=u-01032 dur=93ms
+2026-03-04 09:00:16,361 INFO  [http.access] /api/payment 200 user=u-01000 dur=60ms
+2026-03-04 09:00:17,049 INFO  [http.access] /api/payment 200 user=u-01028 dur=96ms
+2026-03-04 09:00:18,071 INFO  [http.access] /api/checkout 200 user=u-01014 dur=58ms
+2026-03-04 09:00:20,189 INFO  [http.access] /api/orders 200 user=u-01016 dur=90ms
+2026-03-04 09:00:20,624 INFO  [http.access] /api/orders 200 user=u-01001 dur=122ms
+2026-03-04 09:00:21,637 INFO  [http.access] /api/orders 200 user=u-01021 dur=65ms
+2026-03-04 09:00:24,027 INFO  [http.access] /api/checkout 200 user=u-01038 dur=128ms
+2026-03-04 09:00:26,274 INFO  [http.access] /api/payment 200 user=u-01020 dur=115ms
+2026-03-04 09:00:26,984 INFO  [http.access] /api/orders 200 user=u-01033 dur=132ms
+2026-03-04 09:00:28,028 INFO  [http.access] /api/checkout 200 user=u-01029 dur=139ms
+2026-03-04 09:00:29,548 INFO  [http.access] /api/checkout 200 user=u-01001 dur=43ms
+2026-03-04 09:00:30,739 INFO  [http.access] /api/checkout 200 user=u-01009 dur=112ms
+2026-03-04 09:00:33,154 INFO  [http.access] /api/orders 200 user=u-01019 dur=56ms
+2026-03-04 09:00:34,908 INFO  [http.access] /api/orders 200 user=u-01009 dur=29ms
+2026-03-04 09:00:37,056 INFO  [http.access] /api/orders 200 user=u-01024 dur=122ms
+2026-03-04 09:00:37,511 INFO  [http.access] /api/orders 200 user=u-01034 dur=101ms
+2026-03-04 09:00:38,678 INFO  [http.access] /api/cart 200 user=u-01038 dur=34ms
+2026-03-04 09:00:40,480 INFO  [http.access] /api/orders 200 user=u-01022 dur=84ms
+2026-03-04 09:00:42,731 INFO  [http.access] /api/payment 200 user=u-01025 dur=46ms
+2026-03-04 09:00:43,789 INFO  [http.access] /api/payment 200 user=u-01025 dur=120ms
+2026-03-04 09:00:44,263 INFO  [http.access] /api/orders 200 user=u-01011 dur=92ms
+2026-03-04 09:00:45,492 INFO  [http.access] /api/payment 200 user=u-01026 dur=103ms
+2026-03-04 09:00:46,324 INFO  [http.access] /api/orders 200 user=u-01016 dur=25ms
+2026-03-04 09:00:47,852 INFO  [http.access] /api/cart 200 user=u-01013 dur=105ms
+2026-03-04 09:00:49,984 INFO  [http.access] /api/payment 200 user=u-01025 dur=100ms
+2026-03-04 09:00:51,860 INFO  [http.access] /api/checkout 200 user=u-01013 dur=95ms
+2026-03-04 09:00:53,915 INFO  [http.access] /api/payment 200 user=u-01007 dur=118ms
+2026-03-04 09:00:54,726 INFO  [http.access] /api/payment 200 user=u-01001 dur=86ms
+2026-03-04 09:00:56,241 INFO  [http.access] /api/payment 200 user=u-01007 dur=98ms
+2026-03-04 09:00:58,056 WARN  [db.pool] pool utilisation 92% (46/50 connections in use)
+2026-03-04 09:00:58,916 INFO  [http.access] /api/cart 200 user=u-01000 dur=51ms
+2026-03-04 09:01:00,165 INFO  [http.access] /api/orders 200 user=u-01031 dur=72ms
+2026-03-04 09:01:00,944 INFO  [http.access] /api/orders 200 user=u-01004 dur=42ms
+2026-03-04 09:01:01,418 INFO  [http.access] /api/payment 200 user=u-01012 dur=36ms
+2026-03-04 09:01:03,213 INFO  [http.access] /api/payment 200 user=u-01025 dur=103ms
+2026-03-04 09:01:03,784 INFO  [http.access] /api/payment 200 user=u-01000 dur=35ms
+2026-03-04 09:01:06,194 INFO  [http.access] /api/cart 200 user=u-01023 dur=101ms
+2026-03-04 09:01:06,799 INFO  [http.access] /api/orders 200 user=u-01001 dur=96ms
+2026-03-04 09:01:08,555 INFO  [http.access] /api/orders 200 user=u-01033 dur=28ms
+2026-03-04 09:01:09,032 INFO  [http.access] /api/orders 200 user=u-01001 dur=127ms
+2026-03-04 09:01:10,116 INFO  [http.access] /api/checkout 200 user=u-01003 dur=40ms
+2026-03-04 09:01:11,083 INFO  [http.access] /api/checkout 200 user=u-01003 dur=133ms
+2026-03-04 09:01:12,155 ERROR [db.pool] connection pool exhausted: 50/50 in use, 0 available, queue depth 18, waited 30000ms
+2026-03-04 09:01:14,258 ERROR [http.access] /api/cart 500 user=u-01025 dur=30829ms err=DataSourceTimeout
+2026-03-04 09:01:14,942 ERROR [http.access] /api/payment 500 user=u-01008 dur=31000ms err=DataSourceTimeout
+2026-03-04 09:01:15,633 ERROR [http.access] /api/cart 500 user=u-01010 dur=30068ms err=DataSourceTimeout
+2026-03-04 09:01:16,569 WARN  [retry.policy] retrying 8 failed requests, attempt 1/3
+2026-03-04 09:01:17,559 ERROR [db.pool] connection pool exhausted: 50/50 in use, 0 available, queue depth 58, waited 30000ms
+2026-03-04 09:01:18,725 ERROR [http.access] /api/cart 500 user=u-01039 dur=30851ms err=DataSourceTimeout
+2026-03-04 09:01:19,627 ERROR [http.access] /api/payment 500 user=u-01017 dur=30071ms err=DataSourceTimeout
+2026-03-04 09:01:20,534 ERROR [http.access] /api/cart 500 user=u-01020 dur=30262ms err=DataSourceTimeout
+2026-03-04 09:01:21,030 WARN  [retry.policy] retrying 14 failed requests, attempt 2/3
+2026-03-04 09:01:21,738 ERROR [db.pool] connection pool exhausted: 50/50 in use, 0 available, queue depth 77, waited 30000ms
+2026-03-04 09:01:22,639 ERROR [http.access] /api/checkout 500 user=u-01025 dur=30593ms err=DataSourceTimeout
+2026-03-04 09:01:23,170 ERROR [http.access] /api/cart 500 user=u-01010 dur=30695ms err=DataSourceTimeout
+2026-03-04 09:01:24,023 ERROR [http.access] /api/orders 500 user=u-01003 dur=30744ms err=DataSourceTimeout
+2026-03-04 09:01:24,856 WARN  [retry.policy] retrying 15 failed requests, attempt 3/3
+2026-03-04 09:01:25,661 ERROR [db.pool] connection pool exhausted: 50/50 in use, 0 available, queue depth 80, waited 30000ms
+2026-03-04 09:01:26,249 ERROR [http.access] /api/checkout 500 user=u-01030 dur=30937ms err=DataSourceTimeout
+2026-03-04 09:01:26,587 ERROR [http.access] /api/orders 500 user=u-01030 dur=30127ms err=DataSourceTimeout
+2026-03-04 09:01:26,936 ERROR [http.access] /api/payment 500 user=u-01007 dur=30829ms err=DataSourceTimeout
+2026-03-04 09:01:27,590 WARN  [retry.policy] retrying 21 failed requests, attempt 4/3
+2026-03-04 09:01:28,736 ERROR [db.pool] connection pool exhausted: 50/50 in use, 0 available, queue depth 82, waited 30000ms
+2026-03-04 09:01:29,867 ERROR [http.access] /api/checkout 500 user=u-01032 dur=30450ms err=DataSourceTimeout
+2026-03-04 09:01:30,337 ERROR [http.access] /api/checkout 500 user=u-01025 dur=30230ms err=DataSourceTimeout
+2026-03-04 09:01:31,244 ERROR [http.access] /api/payment 500 user=u-01002 dur=30685ms err=DataSourceTimeout
+2026-03-04 09:01:31,979 WARN  [retry.policy] retrying 11 failed requests, attempt 5/3
+2026-03-04 09:01:33,346 ERROR [db.pool] connection pool exhausted: 50/50 in use, 0 available, queue depth 33, waited 30000ms
+2026-03-04 09:01:34,538 ERROR [http.access] /api/payment 500 user=u-01039 dur=30154ms err=DataSourceTimeout
+2026-03-04 09:01:35,014 ERROR [http.access] /api/cart 500 user=u-01023 dur=30696ms err=DataSourceTimeout
+2026-03-04 09:01:35,348 ERROR [http.access] /api/payment 500 user=u-01000 dur=30099ms err=DataSourceTimeout
+2026-03-04 09:01:35,798 WARN  [retry.policy] retrying 9 failed requests, attempt 6/3
+2026-03-04 09:01:37,111 ERROR [db.pool] connection pool exhausted: 50/50 in use, 0 available, queue depth 65, waited 30000ms
+2026-03-04 09:01:38,326 ERROR [cache.redis] connection reset by peer, reconnecting in 500ms
+2026-03-04 09:01:39,535 INFO  [cache.redis] reconnected to redis-01:6379
+2026-03-04 09:18:12,155 INFO  [db.pool] pool resized: max connections 50 -> 200 (operator: on-call)
+2026-03-04 09:18:14,490 INFO  [db.pool] pool utilisation 31% (62/200 connections in use)
+2026-03-04 09:18:16,097 INFO  [http.access] /api/payment 200 user=u-01024 dur=107ms
+2026-03-04 09:18:16,807 INFO  [http.access] /api/checkout 200 user=u-01014 dur=49ms
+2026-03-04 09:18:17,643 INFO  [http.access] /api/checkout 200 user=u-01039 dur=122ms
+2026-03-04 09:18:18,243 INFO  [http.access] /api/orders 200 user=u-01038 dur=68ms
+2026-03-04 09:18:19,707 INFO  [http.access] /api/checkout 200 user=u-01006 dur=82ms
+2026-03-04 09:18:20,626 INFO  [http.access] /api/orders 200 user=u-01036 dur=138ms
+2026-03-04 09:18:23,106 INFO  [http.access] /api/checkout 200 user=u-01032 dur=74ms
+2026-03-04 09:18:23,561 INFO  [http.access] /api/payment 200 user=u-01006 dur=49ms
+2026-03-04 09:18:24,927 INFO  [http.access] /api/checkout 200 user=u-01019 dur=36ms
+2026-03-04 09:18:25,827 INFO  [http.access] /api/checkout 200 user=u-01006 dur=22ms
+2026-03-04 09:18:27,306 INFO  [http.access] /api/orders 200 user=u-01032 dur=118ms
+2026-03-04 09:18:28,686 INFO  [http.access] /api/checkout 200 user=u-01004 dur=63ms
+2026-03-04 09:18:29,849 INFO  [http.access] /api/cart 200 user=u-01021 dur=135ms
+2026-03-04 09:18:30,648 INFO  [http.access] /api/checkout 200 user=u-01004 dur=99ms
+2026-03-04 09:18:32,378 INFO  [http.access] /api/orders 200 user=u-01022 dur=67ms
+2026-03-04 09:18:33,333 INFO  [http.access] /api/cart 200 user=u-01016 dur=100ms
+2026-03-04 09:18:34,291 INFO  [http.access] /api/checkout 200 user=u-01033 dur=130ms
+2026-03-04 09:18:35,344 INFO  [http.access] /api/payment 200 user=u-01010 dur=131ms
+2026-03-04 09:18:36,297 INFO  [http.access] /api/payment 200 user=u-01038 dur=36ms
+2026-03-04 09:18:38,190 INFO  [http.access] /api/checkout 200 user=u-01017 dur=89ms
+2026-03-04 09:18:39,748 INFO  [http.access] /api/orders 200 user=u-01006 dur=85ms
+2026-03-04 09:18:42,197 INFO  [http.access] /api/checkout 200 user=u-01021 dur=106ms
+2026-03-04 09:18:44,170 INFO  [http.access] /api/payment 200 user=u-01017 dur=122ms
+2026-03-04 09:18:45,013 INFO  [http.access] /api/payment 200 user=u-01028 dur=119ms
+2026-03-04 09:18:46,011 INFO  [http.access] /api/orders 200 user=u-01031 dur=75ms
